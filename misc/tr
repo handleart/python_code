@@ -1,0 +1,1362 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ns0:Message xmlns:ns0="http://iec.ch/TC57/2011/schema/message"><ns0:Header><ns0:Verb>created</ns0:Verb><ns0:Noun>MeterReadings</ns0:Noun><ns0:Context>LOCAL</ns0:Context><ns0:Timestamp>2015-10-02T00:09:00.026-04:00</ns0:Timestamp><ns0:Source>OWCE</ns0:Source><ns0:MessageID>e4910f41-efd3-483c-b454-904ecd707fe1</ns0:MessageID><ns0:CorrelationID>123d34b3-dd32-478b-a794-dfc33419fe19</ns0:CorrelationID><ns0:Property><ns0:Name>Stereotype</ns0:Name><ns0:Value>DataArrived</ns0:Value></ns0:Property></ns0:Header><ns0:Payload><ns1:MeterReadings xmlns:ns1="http://iec.ch/TC57/2013/MeterReadings#">
+            <ns1:MeterReading>
+                <ns1:IntervalBlocks>
+                    <ns1:IntervalReadings>
+                        <ns1:timeStamp>2015-10-02T04:00:00Z</ns1:timeStamp>
+                        <ns1:value>206</ns1:value>
+                        <ns1:ReadingQualities>
+                            <ns1:ReadingQualityType ref="AC"/>
+                        </ns1:ReadingQualities>
+                        <ns1:timePeriod>
+                            <ns1:end>2015-10-01T05:00:00Z</ns1:end>
+                            <ns1:start>2015-10-01T04:00:00Z</ns1:start>
+                        </ns1:timePeriod>
+                    </ns1:IntervalReadings>
+                    <ns1:IntervalReadings>
+                        <ns1:timeStamp>2015-10-02T04:00:00Z</ns1:timeStamp>
+                        <ns1:value>206</ns1:value>
+                        <ns1:ReadingQualities>
+                            <ns1:ReadingQualityType ref="AC"/>
+                        </ns1:ReadingQualities>
+                        <ns1:timePeriod>
+                            <ns1:end>2015-10-01T06:00:00Z</ns1:end>
+                            <ns1:start>2015-10-01T05:00:00Z</ns1:start>
+                        </ns1:timePeriod>
+                    </ns1:IntervalReadings>
+                    <ns1:IntervalReadings>
+                        <ns1:timeStamp>2015-10-02T04:00:00Z</ns1:timeStamp>
+                        <ns1:value>208</ns1:value>
+                        <ns1:ReadingQualities>
+                            <ns1:ReadingQualityType ref="AC"/>
+                        </ns1:ReadingQualities>
+                        <ns1:timePeriod>
+                            <ns1:end>2015-10-01T07:00:00Z</ns1:end>
+                            <ns1:start>2015-10-01T06:00:00Z</ns1:start>
+                        </ns1:timePeriod>
+                    </ns1:IntervalReadings>
+                    <ns1:IntervalReadings>
+                        <ns1:timeStamp>2015-10-02T04:00:00Z</ns1:timeStamp>
+                        <ns1:value>208</ns1:value>
+                        <ns1:ReadingQualities>
+                            <ns1:ReadingQualityType ref="AC"/>
+                        </ns1:ReadingQualities>
+                        <ns1:timePeriod>
+                            <ns1:end>2015-10-01T08:00:00Z</ns1:end>
+                            <ns1:start>2015-10-01T07:00:00Z</ns1:start>
+                        </ns1:timePeriod>
+                    </ns1:IntervalReadings>
+                    <ns1:IntervalReadings>
+                        <ns1:timeStamp>2015-10-02T04:00:00Z</ns1:timeStamp>
+                        <ns1:value>206</ns1:value>
+                        <ns1:ReadingQualities>
+                            <ns1:ReadingQualityType ref="AC"/>
+                        </ns1:ReadingQualities>
+                        <ns1:timePeriod>
+                            <ns1:end>2015-10-01T09:00:00Z</ns1:end>
+                            <ns1:start>2015-10-01T08:00:00Z</ns1:start>
+                        </ns1:timePeriod>
+                    </ns1:IntervalReadings>
+                    <ns1:IntervalReadings>
+                        <ns1:timeStamp>2015-10-02T04:00:00Z</ns1:timeStamp>
+                        <ns1:value>206</ns1:value>
+                        <ns1:ReadingQualities>
+                            <ns1:ReadingQualityType ref="AC"/>
+                        </ns1:ReadingQualities>
+                        <ns1:timePeriod>
+                            <ns1:end>2015-10-01T10:00:00Z</ns1:end>
+                            <ns1:start>2015-10-01T09:00:00Z</ns1:start>
+                        </ns1:timePeriod>
+                    </ns1:IntervalReadings>
+                    <ns1:IntervalReadings>
+                        <ns1:timeStamp>2015-10-02T04:00:00Z</ns1:timeStamp>
+                        <ns1:value>208</ns1:value>
+                        <ns1:ReadingQualities>
+                            <ns1:ReadingQualityType ref="AC"/>
+                        </ns1:ReadingQualities>
+                        <ns1:timePeriod>
+                            <ns1:end>2015-10-01T11:00:00Z</ns1:end>
+                            <ns1:start>2015-10-01T10:00:00Z</ns1:start>
+                        </ns1:timePeriod>
+                    </ns1:IntervalReadings>
+                    <ns1:IntervalReadings>
+                        <ns1:timeStamp>2015-10-02T04:00:00Z</ns1:timeStamp>
+                        <ns1:value>210</ns1:value>
+                        <ns1:ReadingQualities>
+                            <ns1:ReadingQualityType ref="AC"/>
+                        </ns1:ReadingQualities>
+                        <ns1:timePeriod>
+                            <ns1:end>2015-10-01T12:00:00Z</ns1:end>
+                            <ns1:start>2015-10-01T11:00:00Z</ns1:start>
+                        </ns1:timePeriod>
+                    </ns1:IntervalReadings>
+                    <ns1:IntervalReadings>
+                        <ns1:timeStamp>2015-10-02T04:00:00Z</ns1:timeStamp>
+                        <ns1:value>208</ns1:value>
+                        <ns1:ReadingQualities>
+                            <ns1:ReadingQualityType ref="AC"/>
+                        </ns1:ReadingQualities>
+                        <ns1:timePeriod>
+                            <ns1:end>2015-10-01T13:00:00Z</ns1:end>
+                            <ns1:start>2015-10-01T12:00:00Z</ns1:start>
+                        </ns1:timePeriod>
+                    </ns1:IntervalReadings>
+                    <ns1:IntervalReadings>
+                        <ns1:timeStamp>2015-10-02T04:00:00Z</ns1:timeStamp>
+                        <ns1:value>208</ns1:value>
+                        <ns1:ReadingQualities>
+                            <ns1:ReadingQualityType ref="AC"/>
+                        </ns1:ReadingQualities>
+                        <ns1:timePeriod>
+                            <ns1:end>2015-10-01T14:00:00Z</ns1:end>
+                            <ns1:start>2015-10-01T13:00:00Z</ns1:start>
+                        </ns1:timePeriod>
+                    </ns1:IntervalReadings>
+                    <ns1:IntervalReadings>
+                        <ns1:timeStamp>2015-10-02T04:00:00Z</ns1:timeStamp>
+                        <ns1:value>208</ns1:value>
+                        <ns1:ReadingQualities>
+                            <ns1:ReadingQualityType ref="AC"/>
+                        </ns1:ReadingQualities>
+                        <ns1:timePeriod>
+                            <ns1:end>2015-10-01T15:00:00Z</ns1:end>
+                            <ns1:start>2015-10-01T14:00:00Z</ns1:start>
+                        </ns1:timePeriod>
+                    </ns1:IntervalReadings>
+                    <ns1:IntervalReadings>
+                        <ns1:timeStamp>2015-10-02T04:00:00Z</ns1:timeStamp>
+                        <ns1:value>208</ns1:value>
+                        <ns1:ReadingQualities>
+                            <ns1:ReadingQualityType ref="AC"/>
+                        </ns1:ReadingQualities>
+                        <ns1:timePeriod>
+                            <ns1:end>2015-10-01T16:00:00Z</ns1:end>
+                            <ns1:start>2015-10-01T15:00:00Z</ns1:start>
+                        </ns1:timePeriod>
+                    </ns1:IntervalReadings>
+                    <ns1:IntervalReadings>
+                        <ns1:timeStamp>2015-10-02T04:00:00Z</ns1:timeStamp>
+                        <ns1:value>208</ns1:value>
+                        <ns1:ReadingQualities>
+                            <ns1:ReadingQualityType ref="AC"/>
+                        </ns1:ReadingQualities>
+                        <ns1:timePeriod>
+                            <ns1:end>2015-10-01T17:00:00Z</ns1:end>
+                            <ns1:start>2015-10-01T16:00:00Z</ns1:start>
+                        </ns1:timePeriod>
+                    </ns1:IntervalReadings>
+                    <ns1:IntervalReadings>
+                        <ns1:timeStamp>2015-10-02T04:00:00Z</ns1:timeStamp>
+                        <ns1:value>210</ns1:value>
+                        <ns1:ReadingQualities>
+                            <ns1:ReadingQualityType ref="AC"/>
+                        </ns1:ReadingQualities>
+                        <ns1:timePeriod>
+                            <ns1:end>2015-10-01T18:00:00Z</ns1:end>
+                            <ns1:start>2015-10-01T17:00:00Z</ns1:start>
+                        </ns1:timePeriod>
+                    </ns1:IntervalReadings>
+                    <ns1:IntervalReadings>
+                        <ns1:timeStamp>2015-10-02T04:00:00Z</ns1:timeStamp>
+                        <ns1:value>206</ns1:value>
+                        <ns1:ReadingQualities>
+                            <ns1:ReadingQualityType ref="AC"/>
+                        </ns1:ReadingQualities>
+                        <ns1:timePeriod>
+                            <ns1:end>2015-10-01T19:00:00Z</ns1:end>
+                            <ns1:start>2015-10-01T18:00:00Z</ns1:start>
+                        </ns1:timePeriod>
+                    </ns1:IntervalReadings>
+                    <ns1:IntervalReadings>
+                        <ns1:timeStamp>2015-10-02T04:00:00Z</ns1:timeStamp>
+                        <ns1:value>206</ns1:value>
+                        <ns1:ReadingQualities>
+                            <ns1:ReadingQualityType ref="AC"/>
+                        </ns1:ReadingQualities>
+                        <ns1:timePeriod>
+                            <ns1:end>2015-10-01T20:00:00Z</ns1:end>
+                            <ns1:start>2015-10-01T19:00:00Z</ns1:start>
+                        </ns1:timePeriod>
+                    </ns1:IntervalReadings>
+                    <ns1:IntervalReadings>
+                        <ns1:timeStamp>2015-10-02T04:00:00Z</ns1:timeStamp>
+                        <ns1:value>206</ns1:value>
+                        <ns1:ReadingQualities>
+                            <ns1:ReadingQualityType ref="AC"/>
+                        </ns1:ReadingQualities>
+                        <ns1:timePeriod>
+                            <ns1:end>2015-10-01T21:00:00Z</ns1:end>
+                            <ns1:start>2015-10-01T20:00:00Z</ns1:start>
+                        </ns1:timePeriod>
+                    </ns1:IntervalReadings>
+                    <ns1:IntervalReadings>
+                        <ns1:timeStamp>2015-10-02T04:00:00Z</ns1:timeStamp>
+                        <ns1:value>206</ns1:value>
+                        <ns1:ReadingQualities>
+                            <ns1:ReadingQualityType ref="AC"/>
+                        </ns1:ReadingQualities>
+                        <ns1:timePeriod>
+                            <ns1:end>2015-10-01T22:00:00Z</ns1:end>
+                            <ns1:start>2015-10-01T21:00:00Z</ns1:start>
+                        </ns1:timePeriod>
+                    </ns1:IntervalReadings>
+                    <ns1:IntervalReadings>
+                        <ns1:timeStamp>2015-10-02T04:00:00Z</ns1:timeStamp>
+                        <ns1:value>204</ns1:value>
+                        <ns1:ReadingQualities>
+                            <ns1:ReadingQualityType ref="AC"/>
+                        </ns1:ReadingQualities>
+                        <ns1:timePeriod>
+                            <ns1:end>2015-10-01T23:00:00Z</ns1:end>
+                            <ns1:start>2015-10-01T22:00:00Z</ns1:start>
+                        </ns1:timePeriod>
+                    </ns1:IntervalReadings>
+                    <ns1:IntervalReadings>
+                        <ns1:timeStamp>2015-10-02T04:00:00Z</ns1:timeStamp>
+                        <ns1:value>208</ns1:value>
+                        <ns1:ReadingQualities>
+                            <ns1:ReadingQualityType ref="AC"/>
+                        </ns1:ReadingQualities>
+                        <ns1:timePeriod>
+                            <ns1:end>2015-10-02T00:00:00Z</ns1:end>
+                            <ns1:start>2015-10-01T23:00:00Z</ns1:start>
+                        </ns1:timePeriod>
+                    </ns1:IntervalReadings>
+                    <ns1:IntervalReadings>
+                        <ns1:timeStamp>2015-10-02T04:00:00Z</ns1:timeStamp>
+                        <ns1:value>210</ns1:value>
+                        <ns1:ReadingQualities>
+                            <ns1:ReadingQualityType ref="AC"/>
+                        </ns1:ReadingQualities>
+                        <ns1:timePeriod>
+                            <ns1:end>2015-10-02T01:00:00Z</ns1:end>
+                            <ns1:start>2015-10-02T00:00:00Z</ns1:start>
+                        </ns1:timePeriod>
+                    </ns1:IntervalReadings>
+                    <ns1:IntervalReadings>
+                        <ns1:timeStamp>2015-10-02T04:00:00Z</ns1:timeStamp>
+                        <ns1:value>206</ns1:value>
+                        <ns1:ReadingQualities>
+                            <ns1:ReadingQualityType ref="AC"/>
+                        </ns1:ReadingQualities>
+                        <ns1:timePeriod>
+                            <ns1:end>2015-10-02T02:00:00Z</ns1:end>
+                            <ns1:start>2015-10-02T01:00:00Z</ns1:start>
+                        </ns1:timePeriod>
+                    </ns1:IntervalReadings>
+                    <ns1:IntervalReadings>
+                        <ns1:timeStamp>2015-10-02T04:00:00Z</ns1:timeStamp>
+                        <ns1:value>206</ns1:value>
+                        <ns1:ReadingQualities>
+                            <ns1:ReadingQualityType ref="AC"/>
+                        </ns1:ReadingQualities>
+                        <ns1:timePeriod>
+                            <ns1:end>2015-10-02T03:00:00Z</ns1:end>
+                            <ns1:start>2015-10-02T02:00:00Z</ns1:start>
+                        </ns1:timePeriod>
+                    </ns1:IntervalReadings>
+                    <ns1:IntervalReadings>
+                        <ns1:timeStamp>2015-10-02T04:00:00Z</ns1:timeStamp>
+                        <ns1:value>208</ns1:value>
+                        <ns1:ReadingQualities>
+                            <ns1:ReadingQualityType ref="AC"/>
+                        </ns1:ReadingQualities>
+                        <ns1:timePeriod>
+                            <ns1:end>2015-10-02T04:00:00Z</ns1:end>
+                            <ns1:start>2015-10-02T03:00:00Z</ns1:start>
+                        </ns1:timePeriod>
+                    </ns1:IntervalReadings>
+                    <ns1:PendingCalculation>
+                        <ns1:scalarFloat>2.0E0</ns1:scalarFloat>
+                        <ns1:ReadingType ref="60"/>
+                    </ns1:PendingCalculation>
+                    <ns1:ReadingType ref="Wh d"/>
+                </ns1:IntervalBlocks>
+                <ns1:IntervalBlocks>
+                    <ns1:IntervalReadings>
+                        <ns1:timeStamp>2015-10-02T04:00:00Z</ns1:timeStamp>
+                        <ns1:value>0</ns1:value>
+                        <ns1:ReadingQualities>
+                            <ns1:ReadingQualityType ref="AC"/>
+                        </ns1:ReadingQualities>
+                        <ns1:timePeriod>
+                            <ns1:end>2015-10-01T05:00:00Z</ns1:end>
+                            <ns1:start>2015-10-01T04:00:00Z</ns1:start>
+                        </ns1:timePeriod>
+                    </ns1:IntervalReadings>
+                    <ns1:IntervalReadings>
+                        <ns1:timeStamp>2015-10-02T04:00:00Z</ns1:timeStamp>
+                        <ns1:value>0</ns1:value>
+                        <ns1:ReadingQualities>
+                            <ns1:ReadingQualityType ref="AC"/>
+                        </ns1:ReadingQualities>
+                        <ns1:timePeriod>
+                            <ns1:end>2015-10-01T06:00:00Z</ns1:end>
+                            <ns1:start>2015-10-01T05:00:00Z</ns1:start>
+                        </ns1:timePeriod>
+                    </ns1:IntervalReadings>
+                    <ns1:IntervalReadings>
+                        <ns1:timeStamp>2015-10-02T04:00:00Z</ns1:timeStamp>
+                        <ns1:value>0</ns1:value>
+                        <ns1:ReadingQualities>
+                            <ns1:ReadingQualityType ref="AC"/>
+                        </ns1:ReadingQualities>
+                        <ns1:timePeriod>
+                            <ns1:end>2015-10-01T07:00:00Z</ns1:end>
+                            <ns1:start>2015-10-01T06:00:00Z</ns1:start>
+                        </ns1:timePeriod>
+                    </ns1:IntervalReadings>
+                    <ns1:IntervalReadings>
+                        <ns1:timeStamp>2015-10-02T04:00:00Z</ns1:timeStamp>
+                        <ns1:value>0</ns1:value>
+                        <ns1:ReadingQualities>
+                            <ns1:ReadingQualityType ref="AC"/>
+                        </ns1:ReadingQualities>
+                        <ns1:timePeriod>
+                            <ns1:end>2015-10-01T08:00:00Z</ns1:end>
+                            <ns1:start>2015-10-01T07:00:00Z</ns1:start>
+                        </ns1:timePeriod>
+                    </ns1:IntervalReadings>
+                    <ns1:IntervalReadings>
+                        <ns1:timeStamp>2015-10-02T04:00:00Z</ns1:timeStamp>
+                        <ns1:value>0</ns1:value>
+                        <ns1:ReadingQualities>
+                            <ns1:ReadingQualityType ref="AC"/>
+                        </ns1:ReadingQualities>
+                        <ns1:timePeriod>
+                            <ns1:end>2015-10-01T09:00:00Z</ns1:end>
+                            <ns1:start>2015-10-01T08:00:00Z</ns1:start>
+                        </ns1:timePeriod>
+                    </ns1:IntervalReadings>
+                    <ns1:IntervalReadings>
+                        <ns1:timeStamp>2015-10-02T04:00:00Z</ns1:timeStamp>
+                        <ns1:value>0</ns1:value>
+                        <ns1:ReadingQualities>
+                            <ns1:ReadingQualityType ref="AC"/>
+                        </ns1:ReadingQualities>
+                        <ns1:timePeriod>
+                            <ns1:end>2015-10-01T10:00:00Z</ns1:end>
+                            <ns1:start>2015-10-01T09:00:00Z</ns1:start>
+                        </ns1:timePeriod>
+                    </ns1:IntervalReadings>
+                    <ns1:IntervalReadings>
+                        <ns1:timeStamp>2015-10-02T04:00:00Z</ns1:timeStamp>
+                        <ns1:value>0</ns1:value>
+                        <ns1:ReadingQualities>
+                            <ns1:ReadingQualityType ref="AC"/>
+                        </ns1:ReadingQualities>
+                        <ns1:timePeriod>
+                            <ns1:end>2015-10-01T11:00:00Z</ns1:end>
+                            <ns1:start>2015-10-01T10:00:00Z</ns1:start>
+                        </ns1:timePeriod>
+                    </ns1:IntervalReadings>
+                    <ns1:IntervalReadings>
+                        <ns1:timeStamp>2015-10-02T04:00:00Z</ns1:timeStamp>
+                        <ns1:value>0</ns1:value>
+                        <ns1:ReadingQualities>
+                            <ns1:ReadingQualityType ref="AC"/>
+                        </ns1:ReadingQualities>
+                        <ns1:timePeriod>
+                            <ns1:end>2015-10-01T12:00:00Z</ns1:end>
+                            <ns1:start>2015-10-01T11:00:00Z</ns1:start>
+                        </ns1:timePeriod>
+                    </ns1:IntervalReadings>
+                    <ns1:IntervalReadings>
+                        <ns1:timeStamp>2015-10-02T04:00:00Z</ns1:timeStamp>
+                        <ns1:value>0</ns1:value>
+                        <ns1:ReadingQualities>
+                            <ns1:ReadingQualityType ref="AC"/>
+                        </ns1:ReadingQualities>
+                        <ns1:timePeriod>
+                            <ns1:end>2015-10-01T13:00:00Z</ns1:end>
+                            <ns1:start>2015-10-01T12:00:00Z</ns1:start>
+                        </ns1:timePeriod>
+                    </ns1:IntervalReadings>
+                    <ns1:IntervalReadings>
+                        <ns1:timeStamp>2015-10-02T04:00:00Z</ns1:timeStamp>
+                        <ns1:value>0</ns1:value>
+                        <ns1:ReadingQualities>
+                            <ns1:ReadingQualityType ref="AC"/>
+                        </ns1:ReadingQualities>
+                        <ns1:timePeriod>
+                            <ns1:end>2015-10-01T14:00:00Z</ns1:end>
+                            <ns1:start>2015-10-01T13:00:00Z</ns1:start>
+                        </ns1:timePeriod>
+                    </ns1:IntervalReadings>
+                    <ns1:IntervalReadings>
+                        <ns1:timeStamp>2015-10-02T04:00:00Z</ns1:timeStamp>
+                        <ns1:value>0</ns1:value>
+                        <ns1:ReadingQualities>
+                            <ns1:ReadingQualityType ref="AC"/>
+                        </ns1:ReadingQualities>
+                        <ns1:timePeriod>
+                            <ns1:end>2015-10-01T15:00:00Z</ns1:end>
+                            <ns1:start>2015-10-01T14:00:00Z</ns1:start>
+                        </ns1:timePeriod>
+                    </ns1:IntervalReadings>
+                    <ns1:IntervalReadings>
+                        <ns1:timeStamp>2015-10-02T04:00:00Z</ns1:timeStamp>
+                        <ns1:value>0</ns1:value>
+                        <ns1:ReadingQualities>
+                            <ns1:ReadingQualityType ref="AC"/>
+                        </ns1:ReadingQualities>
+                        <ns1:timePeriod>
+                            <ns1:end>2015-10-01T16:00:00Z</ns1:end>
+                            <ns1:start>2015-10-01T15:00:00Z</ns1:start>
+                        </ns1:timePeriod>
+                    </ns1:IntervalReadings>
+                    <ns1:IntervalReadings>
+                        <ns1:timeStamp>2015-10-02T04:00:00Z</ns1:timeStamp>
+                        <ns1:value>0</ns1:value>
+                        <ns1:ReadingQualities>
+                            <ns1:ReadingQualityType ref="AC"/>
+                        </ns1:ReadingQualities>
+                        <ns1:timePeriod>
+                            <ns1:end>2015-10-01T17:00:00Z</ns1:end>
+                            <ns1:start>2015-10-01T16:00:00Z</ns1:start>
+                        </ns1:timePeriod>
+                    </ns1:IntervalReadings>
+                    <ns1:IntervalReadings>
+                        <ns1:timeStamp>2015-10-02T04:00:00Z</ns1:timeStamp>
+                        <ns1:value>0</ns1:value>
+                        <ns1:ReadingQualities>
+                            <ns1:ReadingQualityType ref="AC"/>
+                        </ns1:ReadingQualities>
+                        <ns1:timePeriod>
+                            <ns1:end>2015-10-01T18:00:00Z</ns1:end>
+                            <ns1:start>2015-10-01T17:00:00Z</ns1:start>
+                        </ns1:timePeriod>
+                    </ns1:IntervalReadings>
+                    <ns1:IntervalReadings>
+                        <ns1:timeStamp>2015-10-02T04:00:00Z</ns1:timeStamp>
+                        <ns1:value>0</ns1:value>
+                        <ns1:ReadingQualities>
+                            <ns1:ReadingQualityType ref="AC"/>
+                        </ns1:ReadingQualities>
+                        <ns1:timePeriod>
+                            <ns1:end>2015-10-01T19:00:00Z</ns1:end>
+                            <ns1:start>2015-10-01T18:00:00Z</ns1:start>
+                        </ns1:timePeriod>
+                    </ns1:IntervalReadings>
+                    <ns1:IntervalReadings>
+                        <ns1:timeStamp>2015-10-02T04:00:00Z</ns1:timeStamp>
+                        <ns1:value>0</ns1:value>
+                        <ns1:ReadingQualities>
+                            <ns1:ReadingQualityType ref="AC"/>
+                        </ns1:ReadingQualities>
+                        <ns1:timePeriod>
+                            <ns1:end>2015-10-01T20:00:00Z</ns1:end>
+                            <ns1:start>2015-10-01T19:00:00Z</ns1:start>
+                        </ns1:timePeriod>
+                    </ns1:IntervalReadings>
+                    <ns1:IntervalReadings>
+                        <ns1:timeStamp>2015-10-02T04:00:00Z</ns1:timeStamp>
+                        <ns1:value>0</ns1:value>
+                        <ns1:ReadingQualities>
+                            <ns1:ReadingQualityType ref="AC"/>
+                        </ns1:ReadingQualities>
+                        <ns1:timePeriod>
+                            <ns1:end>2015-10-01T21:00:00Z</ns1:end>
+                            <ns1:start>2015-10-01T20:00:00Z</ns1:start>
+                        </ns1:timePeriod>
+                    </ns1:IntervalReadings>
+                    <ns1:IntervalReadings>
+                        <ns1:timeStamp>2015-10-02T04:00:00Z</ns1:timeStamp>
+                        <ns1:value>0</ns1:value>
+                        <ns1:ReadingQualities>
+                            <ns1:ReadingQualityType ref="AC"/>
+                        </ns1:ReadingQualities>
+                        <ns1:timePeriod>
+                            <ns1:end>2015-10-01T22:00:00Z</ns1:end>
+                            <ns1:start>2015-10-01T21:00:00Z</ns1:start>
+                        </ns1:timePeriod>
+                    </ns1:IntervalReadings>
+                    <ns1:IntervalReadings>
+                        <ns1:timeStamp>2015-10-02T04:00:00Z</ns1:timeStamp>
+                        <ns1:value>0</ns1:value>
+                        <ns1:ReadingQualities>
+                            <ns1:ReadingQualityType ref="AC"/>
+                        </ns1:ReadingQualities>
+                        <ns1:timePeriod>
+                            <ns1:end>2015-10-01T23:00:00Z</ns1:end>
+                            <ns1:start>2015-10-01T22:00:00Z</ns1:start>
+                        </ns1:timePeriod>
+                    </ns1:IntervalReadings>
+                    <ns1:IntervalReadings>
+                        <ns1:timeStamp>2015-10-02T04:00:00Z</ns1:timeStamp>
+                        <ns1:value>0</ns1:value>
+                        <ns1:ReadingQualities>
+                            <ns1:ReadingQualityType ref="AC"/>
+                        </ns1:ReadingQualities>
+                        <ns1:timePeriod>
+                            <ns1:end>2015-10-02T00:00:00Z</ns1:end>
+                            <ns1:start>2015-10-01T23:00:00Z</ns1:start>
+                        </ns1:timePeriod>
+                    </ns1:IntervalReadings>
+                    <ns1:IntervalReadings>
+                        <ns1:timeStamp>2015-10-02T04:00:00Z</ns1:timeStamp>
+                        <ns1:value>0</ns1:value>
+                        <ns1:ReadingQualities>
+                            <ns1:ReadingQualityType ref="AC"/>
+                        </ns1:ReadingQualities>
+                        <ns1:timePeriod>
+                            <ns1:end>2015-10-02T01:00:00Z</ns1:end>
+                            <ns1:start>2015-10-02T00:00:00Z</ns1:start>
+                        </ns1:timePeriod>
+                    </ns1:IntervalReadings>
+                    <ns1:IntervalReadings>
+                        <ns1:timeStamp>2015-10-02T04:00:00Z</ns1:timeStamp>
+                        <ns1:value>0</ns1:value>
+                        <ns1:ReadingQualities>
+                            <ns1:ReadingQualityType ref="AC"/>
+                        </ns1:ReadingQualities>
+                        <ns1:timePeriod>
+                            <ns1:end>2015-10-02T02:00:00Z</ns1:end>
+                            <ns1:start>2015-10-02T01:00:00Z</ns1:start>
+                        </ns1:timePeriod>
+                    </ns1:IntervalReadings>
+                    <ns1:IntervalReadings>
+                        <ns1:timeStamp>2015-10-02T04:00:00Z</ns1:timeStamp>
+                        <ns1:value>0</ns1:value>
+                        <ns1:ReadingQualities>
+                            <ns1:ReadingQualityType ref="AC"/>
+                        </ns1:ReadingQualities>
+                        <ns1:timePeriod>
+                            <ns1:end>2015-10-02T03:00:00Z</ns1:end>
+                            <ns1:start>2015-10-02T02:00:00Z</ns1:start>
+                        </ns1:timePeriod>
+                    </ns1:IntervalReadings>
+                    <ns1:IntervalReadings>
+                        <ns1:timeStamp>2015-10-02T04:00:00Z</ns1:timeStamp>
+                        <ns1:value>0</ns1:value>
+                        <ns1:ReadingQualities>
+                            <ns1:ReadingQualityType ref="AC"/>
+                        </ns1:ReadingQualities>
+                        <ns1:timePeriod>
+                            <ns1:end>2015-10-02T04:00:00Z</ns1:end>
+                            <ns1:start>2015-10-02T03:00:00Z</ns1:start>
+                        </ns1:timePeriod>
+                    </ns1:IntervalReadings>
+                    <ns1:PendingCalculation>
+                        <ns1:scalarFloat>2.0E0</ns1:scalarFloat>
+                        <ns1:ReadingType ref="60"/>
+                    </ns1:PendingCalculation>
+                    <ns1:ReadingType ref="Wh r"/>
+                </ns1:IntervalBlocks>
+                <ns1:IntervalBlocks>
+                    <ns1:IntervalReadings>
+                        <ns1:timeStamp>2015-10-02T04:00:00Z</ns1:timeStamp>
+                        <ns1:value>1</ns1:value>
+                        <ns1:ReadingQualities>
+                            <ns1:ReadingQualityType ref="AC"/>
+                        </ns1:ReadingQualities>
+                        <ns1:timePeriod>
+                            <ns1:end>2015-10-01T05:00:00Z</ns1:end>
+                            <ns1:start>2015-10-01T04:00:00Z</ns1:start>
+                        </ns1:timePeriod>
+                    </ns1:IntervalReadings>
+                    <ns1:IntervalReadings>
+                        <ns1:timeStamp>2015-10-02T04:00:00Z</ns1:timeStamp>
+                        <ns1:value>1</ns1:value>
+                        <ns1:ReadingQualities>
+                            <ns1:ReadingQualityType ref="AC"/>
+                        </ns1:ReadingQualities>
+                        <ns1:timePeriod>
+                            <ns1:end>2015-10-01T06:00:00Z</ns1:end>
+                            <ns1:start>2015-10-01T05:00:00Z</ns1:start>
+                        </ns1:timePeriod>
+                    </ns1:IntervalReadings>
+                    <ns1:IntervalReadings>
+                        <ns1:timeStamp>2015-10-02T04:00:00Z</ns1:timeStamp>
+                        <ns1:value>1</ns1:value>
+                        <ns1:ReadingQualities>
+                            <ns1:ReadingQualityType ref="AC"/>
+                        </ns1:ReadingQualities>
+                        <ns1:timePeriod>
+                            <ns1:end>2015-10-01T07:00:00Z</ns1:end>
+                            <ns1:start>2015-10-01T06:00:00Z</ns1:start>
+                        </ns1:timePeriod>
+                    </ns1:IntervalReadings>
+                    <ns1:IntervalReadings>
+                        <ns1:timeStamp>2015-10-02T04:00:00Z</ns1:timeStamp>
+                        <ns1:value>0.5</ns1:value>
+                        <ns1:ReadingQualities>
+                            <ns1:ReadingQualityType ref="AC"/>
+                        </ns1:ReadingQualities>
+                        <ns1:timePeriod>
+                            <ns1:end>2015-10-01T08:00:00Z</ns1:end>
+                            <ns1:start>2015-10-01T07:00:00Z</ns1:start>
+                        </ns1:timePeriod>
+                    </ns1:IntervalReadings>
+                    <ns1:IntervalReadings>
+                        <ns1:timeStamp>2015-10-02T04:00:00Z</ns1:timeStamp>
+                        <ns1:value>1</ns1:value>
+                        <ns1:ReadingQualities>
+                            <ns1:ReadingQualityType ref="AC"/>
+                        </ns1:ReadingQualities>
+                        <ns1:timePeriod>
+                            <ns1:end>2015-10-01T09:00:00Z</ns1:end>
+                            <ns1:start>2015-10-01T08:00:00Z</ns1:start>
+                        </ns1:timePeriod>
+                    </ns1:IntervalReadings>
+                    <ns1:IntervalReadings>
+                        <ns1:timeStamp>2015-10-02T04:00:00Z</ns1:timeStamp>
+                        <ns1:value>1</ns1:value>
+                        <ns1:ReadingQualities>
+                            <ns1:ReadingQualityType ref="AC"/>
+                        </ns1:ReadingQualities>
+                        <ns1:timePeriod>
+                            <ns1:end>2015-10-01T10:00:00Z</ns1:end>
+                            <ns1:start>2015-10-01T09:00:00Z</ns1:start>
+                        </ns1:timePeriod>
+                    </ns1:IntervalReadings>
+                    <ns1:IntervalReadings>
+                        <ns1:timeStamp>2015-10-02T04:00:00Z</ns1:timeStamp>
+                        <ns1:value>0.5</ns1:value>
+                        <ns1:ReadingQualities>
+                            <ns1:ReadingQualityType ref="AC"/>
+                        </ns1:ReadingQualities>
+                        <ns1:timePeriod>
+                            <ns1:end>2015-10-01T11:00:00Z</ns1:end>
+                            <ns1:start>2015-10-01T10:00:00Z</ns1:start>
+                        </ns1:timePeriod>
+                    </ns1:IntervalReadings>
+                    <ns1:IntervalReadings>
+                        <ns1:timeStamp>2015-10-02T04:00:00Z</ns1:timeStamp>
+                        <ns1:value>1</ns1:value>
+                        <ns1:ReadingQualities>
+                            <ns1:ReadingQualityType ref="AC"/>
+                        </ns1:ReadingQualities>
+                        <ns1:timePeriod>
+                            <ns1:end>2015-10-01T12:00:00Z</ns1:end>
+                            <ns1:start>2015-10-01T11:00:00Z</ns1:start>
+                        </ns1:timePeriod>
+                    </ns1:IntervalReadings>
+                    <ns1:IntervalReadings>
+                        <ns1:timeStamp>2015-10-02T04:00:00Z</ns1:timeStamp>
+                        <ns1:value>1</ns1:value>
+                        <ns1:ReadingQualities>
+                            <ns1:ReadingQualityType ref="AC"/>
+                        </ns1:ReadingQualities>
+                        <ns1:timePeriod>
+                            <ns1:end>2015-10-01T13:00:00Z</ns1:end>
+                            <ns1:start>2015-10-01T12:00:00Z</ns1:start>
+                        </ns1:timePeriod>
+                    </ns1:IntervalReadings>
+                    <ns1:IntervalReadings>
+                        <ns1:timeStamp>2015-10-02T04:00:00Z</ns1:timeStamp>
+                        <ns1:value>0.5</ns1:value>
+                        <ns1:ReadingQualities>
+                            <ns1:ReadingQualityType ref="AC"/>
+                        </ns1:ReadingQualities>
+                        <ns1:timePeriod>
+                            <ns1:end>2015-10-01T14:00:00Z</ns1:end>
+                            <ns1:start>2015-10-01T13:00:00Z</ns1:start>
+                        </ns1:timePeriod>
+                    </ns1:IntervalReadings>
+                    <ns1:IntervalReadings>
+                        <ns1:timeStamp>2015-10-02T04:00:00Z</ns1:timeStamp>
+                        <ns1:value>1</ns1:value>
+                        <ns1:ReadingQualities>
+                            <ns1:ReadingQualityType ref="AC"/>
+                        </ns1:ReadingQualities>
+                        <ns1:timePeriod>
+                            <ns1:end>2015-10-01T15:00:00Z</ns1:end>
+                            <ns1:start>2015-10-01T14:00:00Z</ns1:start>
+                        </ns1:timePeriod>
+                    </ns1:IntervalReadings>
+                    <ns1:IntervalReadings>
+                        <ns1:timeStamp>2015-10-02T04:00:00Z</ns1:timeStamp>
+                        <ns1:value>1</ns1:value>
+                        <ns1:ReadingQualities>
+                            <ns1:ReadingQualityType ref="AC"/>
+                        </ns1:ReadingQualities>
+                        <ns1:timePeriod>
+                            <ns1:end>2015-10-01T16:00:00Z</ns1:end>
+                            <ns1:start>2015-10-01T15:00:00Z</ns1:start>
+                        </ns1:timePeriod>
+                    </ns1:IntervalReadings>
+                    <ns1:IntervalReadings>
+                        <ns1:timeStamp>2015-10-02T04:00:00Z</ns1:timeStamp>
+                        <ns1:value>1</ns1:value>
+                        <ns1:ReadingQualities>
+                            <ns1:ReadingQualityType ref="AC"/>
+                        </ns1:ReadingQualities>
+                        <ns1:timePeriod>
+                            <ns1:end>2015-10-01T17:00:00Z</ns1:end>
+                            <ns1:start>2015-10-01T16:00:00Z</ns1:start>
+                        </ns1:timePeriod>
+                    </ns1:IntervalReadings>
+                    <ns1:IntervalReadings>
+                        <ns1:timeStamp>2015-10-02T04:00:00Z</ns1:timeStamp>
+                        <ns1:value>0.5</ns1:value>
+                        <ns1:ReadingQualities>
+                            <ns1:ReadingQualityType ref="AC"/>
+                        </ns1:ReadingQualities>
+                        <ns1:timePeriod>
+                            <ns1:end>2015-10-01T18:00:00Z</ns1:end>
+                            <ns1:start>2015-10-01T17:00:00Z</ns1:start>
+                        </ns1:timePeriod>
+                    </ns1:IntervalReadings>
+                    <ns1:IntervalReadings>
+                        <ns1:timeStamp>2015-10-02T04:00:00Z</ns1:timeStamp>
+                        <ns1:value>1</ns1:value>
+                        <ns1:ReadingQualities>
+                            <ns1:ReadingQualityType ref="AC"/>
+                        </ns1:ReadingQualities>
+                        <ns1:timePeriod>
+                            <ns1:end>2015-10-01T19:00:00Z</ns1:end>
+                            <ns1:start>2015-10-01T18:00:00Z</ns1:start>
+                        </ns1:timePeriod>
+                    </ns1:IntervalReadings>
+                    <ns1:IntervalReadings>
+                        <ns1:timeStamp>2015-10-02T04:00:00Z</ns1:timeStamp>
+                        <ns1:value>1</ns1:value>
+                        <ns1:ReadingQualities>
+                            <ns1:ReadingQualityType ref="AC"/>
+                        </ns1:ReadingQualities>
+                        <ns1:timePeriod>
+                            <ns1:end>2015-10-01T20:00:00Z</ns1:end>
+                            <ns1:start>2015-10-01T19:00:00Z</ns1:start>
+                        </ns1:timePeriod>
+                    </ns1:IntervalReadings>
+                    <ns1:IntervalReadings>
+                        <ns1:timeStamp>2015-10-02T04:00:00Z</ns1:timeStamp>
+                        <ns1:value>0.5</ns1:value>
+                        <ns1:ReadingQualities>
+                            <ns1:ReadingQualityType ref="AC"/>
+                        </ns1:ReadingQualities>
+                        <ns1:timePeriod>
+                            <ns1:end>2015-10-01T21:00:00Z</ns1:end>
+                            <ns1:start>2015-10-01T20:00:00Z</ns1:start>
+                        </ns1:timePeriod>
+                    </ns1:IntervalReadings>
+                    <ns1:IntervalReadings>
+                        <ns1:timeStamp>2015-10-02T04:00:00Z</ns1:timeStamp>
+                        <ns1:value>1</ns1:value>
+                        <ns1:ReadingQualities>
+                            <ns1:ReadingQualityType ref="AC"/>
+                        </ns1:ReadingQualities>
+                        <ns1:timePeriod>
+                            <ns1:end>2015-10-01T22:00:00Z</ns1:end>
+                            <ns1:start>2015-10-01T21:00:00Z</ns1:start>
+                        </ns1:timePeriod>
+                    </ns1:IntervalReadings>
+                    <ns1:IntervalReadings>
+                        <ns1:timeStamp>2015-10-02T04:00:00Z</ns1:timeStamp>
+                        <ns1:value>1</ns1:value>
+                        <ns1:ReadingQualities>
+                            <ns1:ReadingQualityType ref="AC"/>
+                        </ns1:ReadingQualities>
+                        <ns1:timePeriod>
+                            <ns1:end>2015-10-01T23:00:00Z</ns1:end>
+                            <ns1:start>2015-10-01T22:00:00Z</ns1:start>
+                        </ns1:timePeriod>
+                    </ns1:IntervalReadings>
+                    <ns1:IntervalReadings>
+                        <ns1:timeStamp>2015-10-02T04:00:00Z</ns1:timeStamp>
+                        <ns1:value>0.5</ns1:value>
+                        <ns1:ReadingQualities>
+                            <ns1:ReadingQualityType ref="AC"/>
+                        </ns1:ReadingQualities>
+                        <ns1:timePeriod>
+                            <ns1:end>2015-10-02T00:00:00Z</ns1:end>
+                            <ns1:start>2015-10-01T23:00:00Z</ns1:start>
+                        </ns1:timePeriod>
+                    </ns1:IntervalReadings>
+                    <ns1:IntervalReadings>
+                        <ns1:timeStamp>2015-10-02T04:00:00Z</ns1:timeStamp>
+                        <ns1:value>1</ns1:value>
+                        <ns1:ReadingQualities>
+                            <ns1:ReadingQualityType ref="AC"/>
+                        </ns1:ReadingQualities>
+                        <ns1:timePeriod>
+                            <ns1:end>2015-10-02T01:00:00Z</ns1:end>
+                            <ns1:start>2015-10-02T00:00:00Z</ns1:start>
+                        </ns1:timePeriod>
+                    </ns1:IntervalReadings>
+                    <ns1:IntervalReadings>
+                        <ns1:timeStamp>2015-10-02T04:00:00Z</ns1:timeStamp>
+                        <ns1:value>1</ns1:value>
+                        <ns1:ReadingQualities>
+                            <ns1:ReadingQualityType ref="AC"/>
+                        </ns1:ReadingQualities>
+                        <ns1:timePeriod>
+                            <ns1:end>2015-10-02T02:00:00Z</ns1:end>
+                            <ns1:start>2015-10-02T01:00:00Z</ns1:start>
+                        </ns1:timePeriod>
+                    </ns1:IntervalReadings>
+                    <ns1:IntervalReadings>
+                        <ns1:timeStamp>2015-10-02T04:00:00Z</ns1:timeStamp>
+                        <ns1:value>0.5</ns1:value>
+                        <ns1:ReadingQualities>
+                            <ns1:ReadingQualityType ref="AC"/>
+                        </ns1:ReadingQualities>
+                        <ns1:timePeriod>
+                            <ns1:end>2015-10-02T03:00:00Z</ns1:end>
+                            <ns1:start>2015-10-02T02:00:00Z</ns1:start>
+                        </ns1:timePeriod>
+                    </ns1:IntervalReadings>
+                    <ns1:IntervalReadings>
+                        <ns1:timeStamp>2015-10-02T04:00:00Z</ns1:timeStamp>
+                        <ns1:value>1</ns1:value>
+                        <ns1:ReadingQualities>
+                            <ns1:ReadingQualityType ref="AC"/>
+                        </ns1:ReadingQualities>
+                        <ns1:timePeriod>
+                            <ns1:end>2015-10-02T04:00:00Z</ns1:end>
+                            <ns1:start>2015-10-02T03:00:00Z</ns1:start>
+                        </ns1:timePeriod>
+                    </ns1:IntervalReadings>
+                    <ns1:PendingCalculation>
+                        <ns1:scalarFloat>5.0E-1</ns1:scalarFloat>
+                        <ns1:ReadingType ref="60"/>
+                    </ns1:PendingCalculation>
+                    <ns1:ReadingType ref="VARh d"/>
+                </ns1:IntervalBlocks>
+                <ns1:IntervalBlocks>
+                    <ns1:IntervalReadings>
+                        <ns1:timeStamp>2015-10-02T04:00:00Z</ns1:timeStamp>
+                        <ns1:value>245.2</ns1:value>
+                        <ns1:ReadingQualities>
+                            <ns1:ReadingQualityType ref="AC"/>
+                        </ns1:ReadingQualities>
+                        <ns1:timePeriod>
+                            <ns1:end>2015-10-01T05:00:00Z</ns1:end>
+                            <ns1:start>2015-10-01T04:00:00Z</ns1:start>
+                        </ns1:timePeriod>
+                    </ns1:IntervalReadings>
+                    <ns1:IntervalReadings>
+                        <ns1:timeStamp>2015-10-02T04:00:00Z</ns1:timeStamp>
+                        <ns1:value>245.7</ns1:value>
+                        <ns1:ReadingQualities>
+                            <ns1:ReadingQualityType ref="AC"/>
+                        </ns1:ReadingQualities>
+                        <ns1:timePeriod>
+                            <ns1:end>2015-10-01T06:00:00Z</ns1:end>
+                            <ns1:start>2015-10-01T05:00:00Z</ns1:start>
+                        </ns1:timePeriod>
+                    </ns1:IntervalReadings>
+                    <ns1:IntervalReadings>
+                        <ns1:timeStamp>2015-10-02T04:00:00Z</ns1:timeStamp>
+                        <ns1:value>246.2</ns1:value>
+                        <ns1:ReadingQualities>
+                            <ns1:ReadingQualityType ref="AC"/>
+                        </ns1:ReadingQualities>
+                        <ns1:timePeriod>
+                            <ns1:end>2015-10-01T07:00:00Z</ns1:end>
+                            <ns1:start>2015-10-01T06:00:00Z</ns1:start>
+                        </ns1:timePeriod>
+                    </ns1:IntervalReadings>
+                    <ns1:IntervalReadings>
+                        <ns1:timeStamp>2015-10-02T04:00:00Z</ns1:timeStamp>
+                        <ns1:value>246.2</ns1:value>
+                        <ns1:ReadingQualities>
+                            <ns1:ReadingQualityType ref="AC"/>
+                        </ns1:ReadingQualities>
+                        <ns1:timePeriod>
+                            <ns1:end>2015-10-01T08:00:00Z</ns1:end>
+                            <ns1:start>2015-10-01T07:00:00Z</ns1:start>
+                        </ns1:timePeriod>
+                    </ns1:IntervalReadings>
+                    <ns1:IntervalReadings>
+                        <ns1:timeStamp>2015-10-02T04:00:00Z</ns1:timeStamp>
+                        <ns1:value>245.8</ns1:value>
+                        <ns1:ReadingQualities>
+                            <ns1:ReadingQualityType ref="AC"/>
+                        </ns1:ReadingQualities>
+                        <ns1:timePeriod>
+                            <ns1:end>2015-10-01T09:00:00Z</ns1:end>
+                            <ns1:start>2015-10-01T08:00:00Z</ns1:start>
+                        </ns1:timePeriod>
+                    </ns1:IntervalReadings>
+                    <ns1:IntervalReadings>
+                        <ns1:timeStamp>2015-10-02T04:00:00Z</ns1:timeStamp>
+                        <ns1:value>245.5</ns1:value>
+                        <ns1:ReadingQualities>
+                            <ns1:ReadingQualityType ref="AC"/>
+                        </ns1:ReadingQualities>
+                        <ns1:timePeriod>
+                            <ns1:end>2015-10-01T10:00:00Z</ns1:end>
+                            <ns1:start>2015-10-01T09:00:00Z</ns1:start>
+                        </ns1:timePeriod>
+                    </ns1:IntervalReadings>
+                    <ns1:IntervalReadings>
+                        <ns1:timeStamp>2015-10-02T04:00:00Z</ns1:timeStamp>
+                        <ns1:value>246</ns1:value>
+                        <ns1:ReadingQualities>
+                            <ns1:ReadingQualityType ref="AC"/>
+                        </ns1:ReadingQualities>
+                        <ns1:timePeriod>
+                            <ns1:end>2015-10-01T11:00:00Z</ns1:end>
+                            <ns1:start>2015-10-01T10:00:00Z</ns1:start>
+                        </ns1:timePeriod>
+                    </ns1:IntervalReadings>
+                    <ns1:IntervalReadings>
+                        <ns1:timeStamp>2015-10-02T04:00:00Z</ns1:timeStamp>
+                        <ns1:value>247.3</ns1:value>
+                        <ns1:ReadingQualities>
+                            <ns1:ReadingQualityType ref="AC"/>
+                        </ns1:ReadingQualities>
+                        <ns1:timePeriod>
+                            <ns1:end>2015-10-01T12:00:00Z</ns1:end>
+                            <ns1:start>2015-10-01T11:00:00Z</ns1:start>
+                        </ns1:timePeriod>
+                    </ns1:IntervalReadings>
+                    <ns1:IntervalReadings>
+                        <ns1:timeStamp>2015-10-02T04:00:00Z</ns1:timeStamp>
+                        <ns1:value>246.3</ns1:value>
+                        <ns1:ReadingQualities>
+                            <ns1:ReadingQualityType ref="AC"/>
+                        </ns1:ReadingQualities>
+                        <ns1:timePeriod>
+                            <ns1:end>2015-10-01T13:00:00Z</ns1:end>
+                            <ns1:start>2015-10-01T12:00:00Z</ns1:start>
+                        </ns1:timePeriod>
+                    </ns1:IntervalReadings>
+                    <ns1:IntervalReadings>
+                        <ns1:timeStamp>2015-10-02T04:00:00Z</ns1:timeStamp>
+                        <ns1:value>246.5</ns1:value>
+                        <ns1:ReadingQualities>
+                            <ns1:ReadingQualityType ref="AC"/>
+                        </ns1:ReadingQualities>
+                        <ns1:timePeriod>
+                            <ns1:end>2015-10-01T14:00:00Z</ns1:end>
+                            <ns1:start>2015-10-01T13:00:00Z</ns1:start>
+                        </ns1:timePeriod>
+                    </ns1:IntervalReadings>
+                    <ns1:IntervalReadings>
+                        <ns1:timeStamp>2015-10-02T04:00:00Z</ns1:timeStamp>
+                        <ns1:value>246.1</ns1:value>
+                        <ns1:ReadingQualities>
+                            <ns1:ReadingQualityType ref="AC"/>
+                        </ns1:ReadingQualities>
+                        <ns1:timePeriod>
+                            <ns1:end>2015-10-01T15:00:00Z</ns1:end>
+                            <ns1:start>2015-10-01T14:00:00Z</ns1:start>
+                        </ns1:timePeriod>
+                    </ns1:IntervalReadings>
+                    <ns1:IntervalReadings>
+                        <ns1:timeStamp>2015-10-02T04:00:00Z</ns1:timeStamp>
+                        <ns1:value>246.4</ns1:value>
+                        <ns1:ReadingQualities>
+                            <ns1:ReadingQualityType ref="AC"/>
+                        </ns1:ReadingQualities>
+                        <ns1:timePeriod>
+                            <ns1:end>2015-10-01T16:00:00Z</ns1:end>
+                            <ns1:start>2015-10-01T15:00:00Z</ns1:start>
+                        </ns1:timePeriod>
+                    </ns1:IntervalReadings>
+                    <ns1:IntervalReadings>
+                        <ns1:timeStamp>2015-10-02T04:00:00Z</ns1:timeStamp>
+                        <ns1:value>246.8</ns1:value>
+                        <ns1:ReadingQualities>
+                            <ns1:ReadingQualityType ref="AC"/>
+                        </ns1:ReadingQualities>
+                        <ns1:timePeriod>
+                            <ns1:end>2015-10-01T17:00:00Z</ns1:end>
+                            <ns1:start>2015-10-01T16:00:00Z</ns1:start>
+                        </ns1:timePeriod>
+                    </ns1:IntervalReadings>
+                    <ns1:IntervalReadings>
+                        <ns1:timeStamp>2015-10-02T04:00:00Z</ns1:timeStamp>
+                        <ns1:value>247</ns1:value>
+                        <ns1:ReadingQualities>
+                            <ns1:ReadingQualityType ref="AC"/>
+                        </ns1:ReadingQualities>
+                        <ns1:timePeriod>
+                            <ns1:end>2015-10-01T18:00:00Z</ns1:end>
+                            <ns1:start>2015-10-01T17:00:00Z</ns1:start>
+                        </ns1:timePeriod>
+                    </ns1:IntervalReadings>
+                    <ns1:IntervalReadings>
+                        <ns1:timeStamp>2015-10-02T04:00:00Z</ns1:timeStamp>
+                        <ns1:value>244.9</ns1:value>
+                        <ns1:ReadingQualities>
+                            <ns1:ReadingQualityType ref="AC"/>
+                        </ns1:ReadingQualities>
+                        <ns1:timePeriod>
+                            <ns1:end>2015-10-01T19:00:00Z</ns1:end>
+                            <ns1:start>2015-10-01T18:00:00Z</ns1:start>
+                        </ns1:timePeriod>
+                    </ns1:IntervalReadings>
+                    <ns1:IntervalReadings>
+                        <ns1:timeStamp>2015-10-02T04:00:00Z</ns1:timeStamp>
+                        <ns1:value>245.4</ns1:value>
+                        <ns1:ReadingQualities>
+                            <ns1:ReadingQualityType ref="AC"/>
+                        </ns1:ReadingQualities>
+                        <ns1:timePeriod>
+                            <ns1:end>2015-10-01T20:00:00Z</ns1:end>
+                            <ns1:start>2015-10-01T19:00:00Z</ns1:start>
+                        </ns1:timePeriod>
+                    </ns1:IntervalReadings>
+                    <ns1:IntervalReadings>
+                        <ns1:timeStamp>2015-10-02T04:00:00Z</ns1:timeStamp>
+                        <ns1:value>244.8</ns1:value>
+                        <ns1:ReadingQualities>
+                            <ns1:ReadingQualityType ref="AC"/>
+                        </ns1:ReadingQualities>
+                        <ns1:timePeriod>
+                            <ns1:end>2015-10-01T21:00:00Z</ns1:end>
+                            <ns1:start>2015-10-01T20:00:00Z</ns1:start>
+                        </ns1:timePeriod>
+                    </ns1:IntervalReadings>
+                    <ns1:IntervalReadings>
+                        <ns1:timeStamp>2015-10-02T04:00:00Z</ns1:timeStamp>
+                        <ns1:value>245.3</ns1:value>
+                        <ns1:ReadingQualities>
+                            <ns1:ReadingQualityType ref="AC"/>
+                        </ns1:ReadingQualities>
+                        <ns1:timePeriod>
+                            <ns1:end>2015-10-01T22:00:00Z</ns1:end>
+                            <ns1:start>2015-10-01T21:00:00Z</ns1:start>
+                        </ns1:timePeriod>
+                    </ns1:IntervalReadings>
+                    <ns1:IntervalReadings>
+                        <ns1:timeStamp>2015-10-02T04:00:00Z</ns1:timeStamp>
+                        <ns1:value>244.9</ns1:value>
+                        <ns1:ReadingQualities>
+                            <ns1:ReadingQualityType ref="AC"/>
+                        </ns1:ReadingQualities>
+                        <ns1:timePeriod>
+                            <ns1:end>2015-10-01T23:00:00Z</ns1:end>
+                            <ns1:start>2015-10-01T22:00:00Z</ns1:start>
+                        </ns1:timePeriod>
+                    </ns1:IntervalReadings>
+                    <ns1:IntervalReadings>
+                        <ns1:timeStamp>2015-10-02T04:00:00Z</ns1:timeStamp>
+                        <ns1:value>245.6</ns1:value>
+                        <ns1:ReadingQualities>
+                            <ns1:ReadingQualityType ref="AC"/>
+                        </ns1:ReadingQualities>
+                        <ns1:timePeriod>
+                            <ns1:end>2015-10-02T00:00:00Z</ns1:end>
+                            <ns1:start>2015-10-01T23:00:00Z</ns1:start>
+                        </ns1:timePeriod>
+                    </ns1:IntervalReadings>
+                    <ns1:IntervalReadings>
+                        <ns1:timeStamp>2015-10-02T04:00:00Z</ns1:timeStamp>
+                        <ns1:value>247.4</ns1:value>
+                        <ns1:ReadingQualities>
+                            <ns1:ReadingQualityType ref="AC"/>
+                        </ns1:ReadingQualities>
+                        <ns1:timePeriod>
+                            <ns1:end>2015-10-02T01:00:00Z</ns1:end>
+                            <ns1:start>2015-10-02T00:00:00Z</ns1:start>
+                        </ns1:timePeriod>
+                    </ns1:IntervalReadings>
+                    <ns1:IntervalReadings>
+                        <ns1:timeStamp>2015-10-02T04:00:00Z</ns1:timeStamp>
+                        <ns1:value>245.8</ns1:value>
+                        <ns1:ReadingQualities>
+                            <ns1:ReadingQualityType ref="AC"/>
+                        </ns1:ReadingQualities>
+                        <ns1:timePeriod>
+                            <ns1:end>2015-10-02T02:00:00Z</ns1:end>
+                            <ns1:start>2015-10-02T01:00:00Z</ns1:start>
+                        </ns1:timePeriod>
+                    </ns1:IntervalReadings>
+                    <ns1:IntervalReadings>
+                        <ns1:timeStamp>2015-10-02T04:00:00Z</ns1:timeStamp>
+                        <ns1:value>245.7</ns1:value>
+                        <ns1:ReadingQualities>
+                            <ns1:ReadingQualityType ref="AC"/>
+                        </ns1:ReadingQualities>
+                        <ns1:timePeriod>
+                            <ns1:end>2015-10-02T03:00:00Z</ns1:end>
+                            <ns1:start>2015-10-02T02:00:00Z</ns1:start>
+                        </ns1:timePeriod>
+                    </ns1:IntervalReadings>
+                    <ns1:IntervalReadings>
+                        <ns1:timeStamp>2015-10-02T04:00:00Z</ns1:timeStamp>
+                        <ns1:value>245.4</ns1:value>
+                        <ns1:ReadingQualities>
+                            <ns1:ReadingQualityType ref="AC"/>
+                        </ns1:ReadingQualities>
+                        <ns1:timePeriod>
+                            <ns1:end>2015-10-02T04:00:00Z</ns1:end>
+                            <ns1:start>2015-10-02T03:00:00Z</ns1:start>
+                        </ns1:timePeriod>
+                    </ns1:IntervalReadings>
+                    <ns1:PendingCalculation>
+                        <ns1:scalarFloat>1.0E-1</ns1:scalarFloat>
+                        <ns1:ReadingType ref="60"/>
+                    </ns1:PendingCalculation>
+                    <ns1:ReadingType ref="V(a) avg"/>
+                </ns1:IntervalBlocks>
+                <ns1:Meter>
+                    <ns1:Names>
+                        <ns1:name>2.16.840.1.114416.13.11.92000183</ns1:name>
+                        <ns1:NameType>
+                            <ns1:name>ESN</ns1:name>
+                        </ns1:NameType>
+                    </ns1:Names>
+                    <ns1:Names>
+                        <ns1:name>73.84.82.85</ns1:name>
+                        <ns1:NameType>
+                            <ns1:name>DeviceClass</ns1:name>
+                        </ns1:NameType>
+                    </ns1:Names>
+                    <ns1:Names>
+                        <ns1:name>None</ns1:name>
+                        <ns1:NameType>
+                            <ns1:name>ScalingType</ns1:name>
+                        </ns1:NameType>
+                    </ns1:Names>
+                </ns1:Meter>
+                <ns1:Readings>
+                    <ns1:source>SelfReadRegister</ns1:source>
+                    <ns1:timeStamp>2015-10-02T04:00:00Z</ns1:timeStamp>
+                    <ns1:value>1.0467561699999999E6</ns1:value>
+                    <ns1:ReadingQualities>
+                        <ns1:ReadingQualityType ref="AC"/>
+                    </ns1:ReadingQualities>
+                    <ns1:ReadingType ref="Wh d"/>
+                </ns1:Readings>
+                <ns1:Readings>
+                    <ns1:source>SelfReadRegister</ns1:source>
+                    <ns1:timeStamp>2015-10-02T04:00:00Z</ns1:timeStamp>
+                    <ns1:value>0.0E0</ns1:value>
+                    <ns1:ReadingQualities>
+                        <ns1:ReadingQualityType ref="AC"/>
+                    </ns1:ReadingQualities>
+                    <ns1:ReadingType ref="Wh r"/>
+                </ns1:Readings>
+                <ns1:Readings>
+                    <ns1:source>SelfReadRegister</ns1:source>
+                    <ns1:timeStamp>2014-04-21T12:47:00Z</ns1:timeStamp>
+                    <ns1:value>2.3192E2</ns1:value>
+                    <ns1:ReadingQualities>
+                        <ns1:ReadingQualityType ref="AC"/>
+                    </ns1:ReadingQualities>
+                    <ns1:ReadingType ref="max W d"/>
+                </ns1:Readings>
+                <ns1:Readings>
+                    <ns1:source>SelfReadRegister</ns1:source>
+                    <ns1:timeStamp>2015-10-02T04:00:00Z</ns1:timeStamp>
+                    <ns1:value>0.0E0</ns1:value>
+                    <ns1:ReadingQualities>
+                        <ns1:ReadingQualityType ref="AC"/>
+                    </ns1:ReadingQualities>
+                    <ns1:ReadingType ref="cum W d"/>
+                </ns1:Readings>
+                <ns1:Readings>
+                    <ns1:source>SelfReadRegister</ns1:source>
+                    <ns1:timeStamp>2014-04-21T12:47:00Z</ns1:timeStamp>
+                    <ns1:value>1.2652E2</ns1:value>
+                    <ns1:ReadingQualities>
+                        <ns1:ReadingQualityType ref="AC"/>
+                    </ns1:ReadingQualities>
+                    <ns1:ReadingType ref="max VAR d"/>
+                </ns1:Readings>
+                <ns1:Readings>
+                    <ns1:source>SelfReadRegister</ns1:source>
+                    <ns1:timeStamp>2015-10-02T04:00:00Z</ns1:timeStamp>
+                    <ns1:value>0.0E0</ns1:value>
+                    <ns1:ReadingQualities>
+                        <ns1:ReadingQualityType ref="AC"/>
+                    </ns1:ReadingQualities>
+                    <ns1:ReadingType ref="cum VAR d"/>
+                </ns1:Readings>
+                <ns1:Readings>
+                    <ns1:source>SelfReadRegister</ns1:source>
+                    <ns1:timeStamp>2015-10-02T04:00:00Z</ns1:timeStamp>
+                    <ns1:value>2.483585475E5</ns1:value>
+                    <ns1:ReadingQualities>
+                        <ns1:ReadingQualityType ref="AC"/>
+                    </ns1:ReadingQualities>
+                    <ns1:ReadingType ref="Wh d Rate A"/>
+                </ns1:Readings>
+                <ns1:Readings>
+                    <ns1:source>SelfReadRegister</ns1:source>
+                    <ns1:timeStamp>2015-10-02T04:00:00Z</ns1:timeStamp>
+                    <ns1:value>0.0E0</ns1:value>
+                    <ns1:ReadingQualities>
+                        <ns1:ReadingQualityType ref="AC"/>
+                    </ns1:ReadingQualities>
+                    <ns1:ReadingType ref="Wh r Rate A"/>
+                </ns1:Readings>
+                <ns1:Readings>
+                    <ns1:source>SelfReadRegister</ns1:source>
+                    <ns1:timeStamp>2015-09-02T22:00:00Z</ns1:timeStamp>
+                    <ns1:value>2.2085E2</ns1:value>
+                    <ns1:ReadingQualities>
+                        <ns1:ReadingQualityType ref="AC"/>
+                    </ns1:ReadingQualities>
+                    <ns1:ReadingType ref="max W d Rate A"/>
+                </ns1:Readings>
+                <ns1:Readings>
+                    <ns1:source>SelfReadRegister</ns1:source>
+                    <ns1:timeStamp>2015-10-02T04:00:00Z</ns1:timeStamp>
+                    <ns1:value>0.0E0</ns1:value>
+                    <ns1:ReadingQualities>
+                        <ns1:ReadingQualityType ref="AC"/>
+                    </ns1:ReadingQualities>
+                    <ns1:ReadingType ref="cum W d Rate A"/>
+                </ns1:Readings>
+                <ns1:Readings>
+                    <ns1:source>SelfReadRegister</ns1:source>
+                    <ns1:timeStamp>2013-02-13T16:30:00Z</ns1:timeStamp>
+                    <ns1:value>2.67E0</ns1:value>
+                    <ns1:ReadingQualities>
+                        <ns1:ReadingQualityType ref="AC"/>
+                    </ns1:ReadingQualities>
+                    <ns1:ReadingType ref="max VAR d Rate A"/>
+                </ns1:Readings>
+                <ns1:Readings>
+                    <ns1:source>SelfReadRegister</ns1:source>
+                    <ns1:timeStamp>2015-10-02T04:00:00Z</ns1:timeStamp>
+                    <ns1:value>0.0E0</ns1:value>
+                    <ns1:ReadingQualities>
+                        <ns1:ReadingQualityType ref="AC"/>
+                    </ns1:ReadingQualities>
+                    <ns1:ReadingType ref="cum VAR d Rate A"/>
+                </ns1:Readings>
+                <ns1:Readings>
+                    <ns1:source>SelfReadRegister</ns1:source>
+                    <ns1:timeStamp>2015-10-02T04:00:00Z</ns1:timeStamp>
+                    <ns1:value>7.983976224999999E5</ns1:value>
+                    <ns1:ReadingQualities>
+                        <ns1:ReadingQualityType ref="AC"/>
+                    </ns1:ReadingQualities>
+                    <ns1:ReadingType ref="Wh d Rate B"/>
+                </ns1:Readings>
+                <ns1:Readings>
+                    <ns1:source>SelfReadRegister</ns1:source>
+                    <ns1:timeStamp>2015-10-02T04:00:00Z</ns1:timeStamp>
+                    <ns1:value>0.0E0</ns1:value>
+                    <ns1:ReadingQualities>
+                        <ns1:ReadingQualityType ref="AC"/>
+                    </ns1:ReadingQualities>
+                    <ns1:ReadingType ref="Wh r Rate B"/>
+                </ns1:Readings>
+                <ns1:Readings>
+                    <ns1:source>SelfReadRegister</ns1:source>
+                    <ns1:timeStamp>2014-04-21T12:47:00Z</ns1:timeStamp>
+                    <ns1:value>2.3192E2</ns1:value>
+                    <ns1:ReadingQualities>
+                        <ns1:ReadingQualityType ref="AC"/>
+                    </ns1:ReadingQualities>
+                    <ns1:ReadingType ref="max W d Rate B"/>
+                </ns1:Readings>
+                <ns1:Readings>
+                    <ns1:source>SelfReadRegister</ns1:source>
+                    <ns1:timeStamp>2015-10-02T04:00:00Z</ns1:timeStamp>
+                    <ns1:value>0.0E0</ns1:value>
+                    <ns1:ReadingQualities>
+                        <ns1:ReadingQualityType ref="AC"/>
+                    </ns1:ReadingQualities>
+                    <ns1:ReadingType ref="cum W d Rate B"/>
+                </ns1:Readings>
+                <ns1:Readings>
+                    <ns1:source>SelfReadRegister</ns1:source>
+                    <ns1:timeStamp>2014-04-21T12:47:00Z</ns1:timeStamp>
+                    <ns1:value>1.2652E2</ns1:value>
+                    <ns1:ReadingQualities>
+                        <ns1:ReadingQualityType ref="AC"/>
+                    </ns1:ReadingQualities>
+                    <ns1:ReadingType ref="max VAR d Rate B"/>
+                </ns1:Readings>
+                <ns1:Readings>
+                    <ns1:source>SelfReadRegister</ns1:source>
+                    <ns1:timeStamp>2015-10-02T04:00:00Z</ns1:timeStamp>
+                    <ns1:value>0.0E0</ns1:value>
+                    <ns1:ReadingQualities>
+                        <ns1:ReadingQualityType ref="AC"/>
+                    </ns1:ReadingQualities>
+                    <ns1:ReadingType ref="cum VAR d Rate B"/>
+                </ns1:Readings>
+                <ns1:Readings>
+                    <ns1:source>SelfReadRegister</ns1:source>
+                    <ns1:timeStamp>2015-10-02T04:00:00Z</ns1:timeStamp>
+                    <ns1:value>0.0E0</ns1:value>
+                    <ns1:ReadingQualities>
+                        <ns1:ReadingQualityType ref="AC"/>
+                    </ns1:ReadingQualities>
+                    <ns1:ReadingType ref="Wh d Rate C"/>
+                </ns1:Readings>
+                <ns1:Readings>
+                    <ns1:source>SelfReadRegister</ns1:source>
+                    <ns1:timeStamp>2015-10-02T04:00:00Z</ns1:timeStamp>
+                    <ns1:value>0.0E0</ns1:value>
+                    <ns1:ReadingQualities>
+                        <ns1:ReadingQualityType ref="AC"/>
+                    </ns1:ReadingQualities>
+                    <ns1:ReadingType ref="Wh r Rate C"/>
+                </ns1:Readings>
+                <ns1:Readings>
+                    <ns1:source>SelfReadRegister</ns1:source>
+                    <ns1:timeStamp>2015-10-02T04:00:00Z</ns1:timeStamp>
+                    <ns1:value>0.0E0</ns1:value>
+                    <ns1:ReadingQualities>
+                        <ns1:ReadingQualityType ref="AC"/>
+                    </ns1:ReadingQualities>
+                    <ns1:ReadingType ref="cum W d Rate C"/>
+                </ns1:Readings>
+                <ns1:Readings>
+                    <ns1:source>SelfReadRegister</ns1:source>
+                    <ns1:timeStamp>2015-10-02T04:00:00Z</ns1:timeStamp>
+                    <ns1:value>0.0E0</ns1:value>
+                    <ns1:ReadingQualities>
+                        <ns1:ReadingQualityType ref="AC"/>
+                    </ns1:ReadingQualities>
+                    <ns1:ReadingType ref="cum VAR d Rate C"/>
+                </ns1:Readings>
+                <ns1:Readings>
+                    <ns1:source>SelfReadRegister</ns1:source>
+                    <ns1:timeStamp>2015-10-02T04:00:00Z</ns1:timeStamp>
+                    <ns1:value>0.0E0</ns1:value>
+                    <ns1:ReadingQualities>
+                        <ns1:ReadingQualityType ref="AC"/>
+                    </ns1:ReadingQualities>
+                    <ns1:ReadingType ref="Wh d Rate D"/>
+                </ns1:Readings>
+                <ns1:Readings>
+                    <ns1:source>SelfReadRegister</ns1:source>
+                    <ns1:timeStamp>2015-10-02T04:00:00Z</ns1:timeStamp>
+                    <ns1:value>0.0E0</ns1:value>
+                    <ns1:ReadingQualities>
+                        <ns1:ReadingQualityType ref="AC"/>
+                    </ns1:ReadingQualities>
+                    <ns1:ReadingType ref="Wh r Rate D"/>
+                </ns1:Readings>
+                <ns1:Readings>
+                    <ns1:source>SelfReadRegister</ns1:source>
+                    <ns1:timeStamp>2015-10-02T04:00:00Z</ns1:timeStamp>
+                    <ns1:value>0.0E0</ns1:value>
+                    <ns1:ReadingQualities>
+                        <ns1:ReadingQualityType ref="AC"/>
+                    </ns1:ReadingQualities>
+                    <ns1:ReadingType ref="cum W d Rate D"/>
+                </ns1:Readings>
+                <ns1:Readings>
+                    <ns1:source>SelfReadRegister</ns1:source>
+                    <ns1:timeStamp>2015-10-02T04:00:00Z</ns1:timeStamp>
+                    <ns1:value>0.0E0</ns1:value>
+                    <ns1:ReadingQualities>
+                        <ns1:ReadingQualityType ref="AC"/>
+                    </ns1:ReadingQualities>
+                    <ns1:ReadingType ref="cum VAR d Rate D"/>
+                </ns1:Readings>
+                <ns1:Readings>
+                    <ns1:source>SelfReadRegister</ns1:source>
+                    <ns1:timeStamp>2015-10-02T04:00:00Z</ns1:timeStamp>
+                    <ns1:value>4.70582E3</ns1:value>
+                    <ns1:ReadingQualities>
+                        <ns1:ReadingQualityType ref="AC"/>
+                    </ns1:ReadingQualities>
+                    <ns1:ReadingType ref="VARh d"/>
+                </ns1:Readings>
+                <ns1:Readings>
+                    <ns1:source>SelfReadRegister</ns1:source>
+                    <ns1:timeStamp>2015-10-02T04:00:00Z</ns1:timeStamp>
+                    <ns1:value>2.454E2</ns1:value>
+                    <ns1:ReadingQualities>
+                        <ns1:ReadingQualityType ref="AC"/>
+                    </ns1:ReadingQualities>
+                    <ns1:ReadingType ref="V(a) avg"/>
+                </ns1:Readings>
+                <ns1:UsagePoint/>
+            </ns1:MeterReading>
+        </ns1:MeterReadings></ns0:Payload></ns0:Message>

@@ -1,0 +1,5 @@
+rate_plan_identifier	rate_component	event_type	resolution	duration	start_date	start_time	event_date	effective_start_date	effective_end_date
+*	CPP-RES	PEAK_EVENT	DAY	1			20160603		
+*	P-CIA-4H-O	PEAK_EVENT	DAY	1			20160603		
+*	P-CIA-4H-U	PEAK_EVENT	DAY	1			20160603		
+Record_Count:3
